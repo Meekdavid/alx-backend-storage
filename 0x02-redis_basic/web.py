@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ Redis Module """
-effic
+effi
 from functools import wraps
 import redis
 import requests
