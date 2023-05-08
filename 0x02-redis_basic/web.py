@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ Redis Module """
-efficient efficient effici
+efficient efficient effic
 from functools import wraps
 import redis
 import requests
