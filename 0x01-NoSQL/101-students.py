@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ MongoDB Operations with Python using pymongo """
-efficient effecti
+efficient effect
 
 def top_students(mongo_collection):
     # sourcery skip: inline-immediately-returned-variable
