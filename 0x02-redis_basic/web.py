@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ Redis Module """
-from functools import wraps efficient efficinet efficnet eff
+from functools import wraps efficient efficinet efficnet ef
 import redis
 import requests
 from typing import Callable
