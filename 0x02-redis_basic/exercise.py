@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-efficient efficienrt 
+efficient efficienrt
 from typing import Callable, Optional, Union
 from uuid import uuid4
 import redis
